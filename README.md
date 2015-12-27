@@ -1,7 +1,7 @@
 # PyZic
 use python play your music
 
-## Node
+## Note
 
 Do | A
 ---|---
