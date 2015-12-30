@@ -29,3 +29,8 @@ La | F
             B(), A(), A() # == >
         )
     happySong()
+
+
+## install
+### install pyAudio
+please see: http://people.csail.mit.edu/hubert/pyaudio/
